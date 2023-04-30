@@ -22,7 +22,7 @@ Complicanze del diabete
 Valori corretti della glicemia
 - a digiuno (prima del pranzo): 80 - 100
 - postprandiale (2 ore dopo il pasto): non deve superare il valore di 200
-Nota: l'unità di misura è milligrammi/decilitro
+> Nota: l'unità di misura è milligrammi/decilitro
 
 Ipoglicemia (valore più basso del range corretto)
 - astemia ( stanchezza )
